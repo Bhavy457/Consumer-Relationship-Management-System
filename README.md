@@ -1,9 +1,26 @@
 # CRM - Customer Relationship Managment
 
-Simple CRM system, made as a final project for Java coding bootcamp in CodersLab.
+Management System for Community Managers
+This Java project is designed to create a management system for a web platform, enabling community managers to revise and access consumer data for more satisfactory consumer relations. The project leverages the Spring framework and offers source sets for Java programming.
 
-Technologies used: Java 8, Spring Boot, Spring MVC, Spring Data, Hibernate, Spring Security, MySQL, Multithreading, JUnit and Thymeleaf.
-Libraries used: Lombok, OpenCSV,  iText
+Key Features:
+Java Database Connectivity: Integrates MySQL databases to manage and retrieve data efficiently.
+Spring Framework: Utilizes Spring Core/MVC and Spring ORM frameworks for a robust and maintainable application structure.
+Hibernate: Implements Hibernate ORM for efficient database management and data manipulation.
+HTTP and JSpring: Manages HTTP requests and provides user-friendly interfaces using JSpring framework.
+
+Technologies Used:
+Java
+MySQL
+Spring Core/MVC
+Spring ORM
+Hibernate
+HTTP and JSpring
+Java Development Kit (JDK)
+MySQL
+Relevant Spring and Hibernate dependencies
+
+
 
 Note: in this project a free bootstrap templete [Vali Admin](https://github.com/pratikborsadiya/vali-admin) is used.
 
